@@ -29,7 +29,7 @@ pip install matplotlib
 Run the program:
 python main.py
 
-##Example Output
+## Example Output
 Creating record with key: 10, value: Record A
 Record with key 10 created successfully.
 Creating record with key: 20, value: Record B
